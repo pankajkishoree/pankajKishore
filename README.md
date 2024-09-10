@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pushpa</h1> <h3 align="center">A passionate or an enthusiast student from India</h3> <p align="left"> <img src="https://media4.giphy.com/media/5k5vZwRFZR5aZeniqb/200.webp?cid=ecf05e47hri1t2rkmjmbvzhbw252d7qbntjfifspoc0sqv80&ep=v1_gifs_search&rid=200.webp&ct=g" alt="pushpakumari98" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushpakumari98" alt="pushpakumari98" /></a> </p> <p align="left"> <a href="https://twitter.com/pushpamehtaa" target="blank"><img src="https://img.shields.io/twitter/follow/pushpamehtaa?logo=twitter&style=for-the-badge" alt="pushpamehtaa" /></a> </p>
-🔭 I’m currently working on Patient Record Management System
+<h1 align="center">Hi 👋, I'm Pankaj Kishore</h1> <h3 align="center">A passionate student with interest in AI/ML</h3> <p align="left"> <img src="https://media4.giphy.com/media/5k5vZwRFZR5aZeniqb/200.webp?cid=ecf05e47hri1t2rkmjmbvzhbw252d7qbntjfifspoc0sqv80&ep=v1_gifs_search&rid=200.webp&ct=g" alt="pankajKishore" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushpakumari98" alt="pushpakumari98" /></a> </p> <p align="left"> <a href="https://twitter.com/pankajKishore" target="blank"><img src="https://img.shields.io/twitter/follow/pankajKishore?logo=twitter&style=for-the-badge" alt="panakajkishore" /></a> </p>
+🔭 I’m currently working on ..
 
-🌱 I’m currently learning JAVA Springboot
+🌱 I’m currently learning AI/ML
 
-👨‍💻 All of my projects are available at https://pushpafolio.blogspot.com/
+📫 How to reach me pankajkishore762@gmail.com
 
-📫 How to reach me pushpa20052002kumari@gmail.com
-
-📄 Get my Resume https://drive.google.com/file/d/1WZ-bzGv6INw1R4K2RPGaqsM5Al8cVFa7/view?usp=sharing
+📄 Get my Resume 
 
 <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://twitter.com/pushpamehtaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pushpamehtaa" height="30" width="40" /></a> <a href="https://linkedin.com/in/pushpakumari98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushpakumari98" height="30" width="40" /></a> <a href="https://instagram.com/pushpa_m200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pushpa_m200" height="30" width="40" /></a> </p> <h3 align="left">
 Languages and Tools:
